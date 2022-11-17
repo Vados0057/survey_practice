@@ -1,4 +1,5 @@
 public class Participant {
+
     public Participant(String name, int age, char gender) {
         this.name = name;
         this.age = age;
